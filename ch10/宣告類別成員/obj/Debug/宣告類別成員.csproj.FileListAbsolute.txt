@@ -1,0 +1,6 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\宣告類別成員\bin\Debug\宣告類別成員.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\宣告類別成員\bin\Debug\宣告類別成員.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\宣告類別成員\bin\Debug\宣告類別成員.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\宣告類別成員\obj\Debug\宣告類別成員.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\宣告類別成員\obj\Debug\宣告類別成員.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\宣告類別成員\obj\Debug\宣告類別成員.pdb

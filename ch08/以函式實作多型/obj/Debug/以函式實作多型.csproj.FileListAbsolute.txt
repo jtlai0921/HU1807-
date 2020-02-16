@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\以函式實作多型\bin\Debug\以函式實作多型.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\以函式實作多型\bin\Debug\以函式實作多型.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\以函式實作多型\bin\Debug\以函式實作多型.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\以函式實作多型\obj\Debug\以函式實作多型.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\以函式實作多型\obj\Debug\以函式實作多型.pdb

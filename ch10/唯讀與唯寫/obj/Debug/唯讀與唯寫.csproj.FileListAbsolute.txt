@@ -1,0 +1,6 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\唯讀與唯寫\bin\Debug\唯讀與唯寫.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\唯讀與唯寫\bin\Debug\唯讀與唯寫.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\唯讀與唯寫\bin\Debug\唯讀與唯寫.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\唯讀與唯寫\obj\Debug\唯讀與唯寫.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\唯讀與唯寫\obj\Debug\唯讀與唯寫.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\唯讀與唯寫\obj\Debug\唯讀與唯寫.pdb

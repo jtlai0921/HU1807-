@@ -1,0 +1,6 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\運算子優先順序\bin\Debug\運算子優先順序.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\運算子優先順序\bin\Debug\運算子優先順序.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\運算子優先順序\bin\Debug\運算子優先順序.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\運算子優先順序\obj\Debug\運算子優先順序.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\運算子優先順序\obj\Debug\運算子優先順序.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\運算子優先順序\obj\Debug\運算子優先順序.pdb

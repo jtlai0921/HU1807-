@@ -1,0 +1,6 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\字串相加\bin\Debug\字串相加.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\字串相加\bin\Debug\字串相加.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\字串相加\bin\Debug\字串相加.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\字串相加\obj\Debug\字串相加.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\字串相加\obj\Debug\字串相加.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\字串相加\obj\Debug\字串相加.pdb

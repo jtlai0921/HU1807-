@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\九九乘法表\bin\Debug\九九乘法表.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\九九乘法表\bin\Debug\九九乘法表.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\九九乘法表\bin\Debug\九九乘法表.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\九九乘法表\obj\Debug\九九乘法表.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\九九乘法表\obj\Debug\九九乘法表.pdb

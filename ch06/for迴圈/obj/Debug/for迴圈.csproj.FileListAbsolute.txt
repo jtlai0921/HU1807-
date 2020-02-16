@@ -1,0 +1,9 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\for迴圈\bin\Debug\for迴圈.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\for迴圈\bin\Debug\for迴圈.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\for迴圈\bin\Debug\for迴圈.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\for迴圈\obj\Debug\for迴圈.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\for迴圈\obj\Debug\for迴圈.Form1.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\for迴圈\obj\Debug\for迴圈.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\for迴圈\obj\Debug\for迴圈.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\for迴圈\obj\Debug\for迴圈.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\for迴圈\obj\Debug\for迴圈.pdb

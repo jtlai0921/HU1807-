@@ -1,0 +1,9 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawTextureBrush\bin\Debug\DrawTextureBrush.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawTextureBrush\bin\Debug\DrawTextureBrush.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawTextureBrush\bin\Debug\DrawTextureBrush.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawTextureBrush\obj\Debug\DrawTextureBrush.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawTextureBrush\obj\Debug\DrawTextureBrush.Form1.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawTextureBrush\obj\Debug\DrawTextureBrush.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawTextureBrush\obj\Debug\DrawTextureBrush.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawTextureBrush\obj\Debug\DrawTextureBrush.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawTextureBrush\obj\Debug\DrawTextureBrush.pdb

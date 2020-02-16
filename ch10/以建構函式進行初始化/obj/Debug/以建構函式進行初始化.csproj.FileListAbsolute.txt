@@ -1,0 +1,6 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\以建構函式進行初始化\bin\Debug\以建構函式進行初始化.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\以建構函式進行初始化\bin\Debug\以建構函式進行初始化.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\以建構函式進行初始化\bin\Debug\以建構函式進行初始化.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\以建構函式進行初始化\obj\Debug\以建構函式進行初始化.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\以建構函式進行初始化\obj\Debug\以建構函式進行初始化.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\以建構函式進行初始化\obj\Debug\以建構函式進行初始化.pdb

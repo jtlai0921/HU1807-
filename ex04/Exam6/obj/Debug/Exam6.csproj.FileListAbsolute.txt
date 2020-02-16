@@ -1,0 +1,6 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ex04\Exam6\bin\Debug\Exam6.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ex04\Exam6\bin\Debug\Exam6.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ex04\Exam6\bin\Debug\Exam6.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ex04\Exam6\obj\Debug\Exam6.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ex04\Exam6\obj\Debug\Exam6.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ex04\Exam6\obj\Debug\Exam6.pdb

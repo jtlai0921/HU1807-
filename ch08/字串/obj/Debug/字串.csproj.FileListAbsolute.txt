@@ -1,0 +1,6 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\字串\bin\Debug\字串.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\字串\bin\Debug\字串.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\字串\bin\Debug\字串.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\字串\obj\Debug\字串.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\字串\obj\Debug\字串.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\字串\obj\Debug\字串.pdb

@@ -1,0 +1,6 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\使用BinaryReader\bin\Debug\使用BinaryReader.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\使用BinaryReader\bin\Debug\使用BinaryReader.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\使用BinaryReader\bin\Debug\使用BinaryReader.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\使用BinaryReader\obj\Debug\使用BinaryReader.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\使用BinaryReader\obj\Debug\使用BinaryReader.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\使用BinaryReader\obj\Debug\使用BinaryReader.pdb

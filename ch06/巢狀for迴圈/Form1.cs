@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace 巢狀for迴圈
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int I, J;
+        string sing1;
+        sing1 = "";
+        for(I=1;I<=10;I++)
+        {
+            for (J=1;J<=I;J++)
+            {
+                sing1 = sing1 + "*";
+            }
+             sing1 = sing1 + "\n";
+        }
+        richTextBox1.Text = sing1;
+        }
+    }
+}

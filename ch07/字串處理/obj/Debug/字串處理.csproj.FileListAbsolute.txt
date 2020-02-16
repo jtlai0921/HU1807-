@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\字串處理\bin\Debug\字串處理.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\字串處理\bin\Debug\字串處理.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\字串處理\bin\Debug\字串處理.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\字串處理\obj\Debug\字串處理.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\字串處理\obj\Debug\字串處理.pdb

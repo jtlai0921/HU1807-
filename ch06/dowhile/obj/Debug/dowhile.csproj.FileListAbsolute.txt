@@ -1,0 +1,9 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\dowhile\bin\Debug\dowhile.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\dowhile\bin\Debug\dowhile.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\dowhile\bin\Debug\dowhile.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\dowhile\obj\Debug\dowhile.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\dowhile\obj\Debug\dowhile.Form1.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\dowhile\obj\Debug\dowhile.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\dowhile\obj\Debug\dowhile.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\dowhile\obj\Debug\dowhile.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\dowhile\obj\Debug\dowhile.pdb

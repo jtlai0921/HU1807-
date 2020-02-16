@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ex04\Exam5\bin\Debug\Exam5.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ex04\Exam5\bin\Debug\Exam5.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ex04\Exam5\bin\Debug\Exam5.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ex04\Exam5\obj\Debug\Exam5.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ex04\Exam5\obj\Debug\Exam5.pdb

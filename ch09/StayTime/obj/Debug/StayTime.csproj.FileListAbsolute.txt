@@ -1,0 +1,6 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\StayTime\bin\Debug\StayTime.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\StayTime\bin\Debug\StayTime.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\StayTime\bin\Debug\StayTime.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\StayTime\obj\Debug\StayTime.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\StayTime\obj\Debug\StayTime.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\StayTime\obj\Debug\StayTime.pdb

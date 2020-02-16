@@ -1,0 +1,8 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\MsgBox控制項\bin\Debug\MsgBox控制項.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\MsgBox控制項\bin\Debug\MsgBox控制項.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\MsgBox控制項\bin\Debug\MsgBox控制項.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\MsgBox控制項\obj\Debug\MsgBox控制項.Form1.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\MsgBox控制項\obj\Debug\MsgBox控制項.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\MsgBox控制項\obj\Debug\MsgBox控制項.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\MsgBox控制項\obj\Debug\MsgBox控制項.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\MsgBox控制項\obj\Debug\MsgBox控制項.pdb

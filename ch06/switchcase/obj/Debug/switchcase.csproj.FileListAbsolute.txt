@@ -1,0 +1,9 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\switchcase\bin\Debug\switchcase.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\switchcase\bin\Debug\switchcase.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\switchcase\bin\Debug\switchcase.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\switchcase\obj\Debug\switchcase.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\switchcase\obj\Debug\switchcase.Form1.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\switchcase\obj\Debug\switchcase.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\switchcase\obj\Debug\switchcase.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\switchcase\obj\Debug\switchcase.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\switchcase\obj\Debug\switchcase.pdb

@@ -1,0 +1,9 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\事件處理函式\bin\Debug\事件處理函式.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\事件處理函式\bin\Debug\事件處理函式.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\事件處理函式\bin\Debug\事件處理函式.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\事件處理函式\obj\Debug\事件處理函式.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\事件處理函式\obj\Debug\事件處理函式.Form1.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\事件處理函式\obj\Debug\事件處理函式.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\事件處理函式\obj\Debug\事件處理函式.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\事件處理函式\obj\Debug\事件處理函式.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\事件處理函式\obj\Debug\事件處理函式.pdb

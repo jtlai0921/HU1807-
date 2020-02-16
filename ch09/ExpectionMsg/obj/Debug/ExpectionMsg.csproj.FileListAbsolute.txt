@@ -1,0 +1,6 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\ExpectionMsg\bin\Debug\ExpectionMsg.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\ExpectionMsg\bin\Debug\ExpectionMsg.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\ExpectionMsg\bin\Debug\ExpectionMsg.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\ExpectionMsg\obj\Debug\ExpectionMsg.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\ExpectionMsg\obj\Debug\ExpectionMsg.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch09\ExpectionMsg\obj\Debug\ExpectionMsg.csprojResolveAssemblyReference.cache

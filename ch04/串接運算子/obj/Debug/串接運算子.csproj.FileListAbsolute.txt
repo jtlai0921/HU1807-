@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\串接運算子\bin\Debug\串接運算子.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\串接運算子\bin\Debug\串接運算子.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\串接運算子\bin\Debug\串接運算子.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\串接運算子\obj\Debug\串接運算子.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\串接運算子\obj\Debug\串接運算子.pdb

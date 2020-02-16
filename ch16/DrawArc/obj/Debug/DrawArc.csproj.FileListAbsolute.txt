@@ -1,0 +1,8 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawArc\bin\Debug\DrawArc.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawArc\bin\Debug\DrawArc.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawArc\bin\Debug\DrawArc.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawArc\obj\Debug\DrawArc.Form1.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawArc\obj\Debug\DrawArc.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawArc\obj\Debug\DrawArc.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawArc\obj\Debug\DrawArc.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawArc\obj\Debug\DrawArc.pdb

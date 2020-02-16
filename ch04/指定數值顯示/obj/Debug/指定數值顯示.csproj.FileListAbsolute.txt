@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\指定數值顯示\bin\Debug\指定數值顯示.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\指定數值顯示\bin\Debug\指定數值顯示.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\指定數值顯示\bin\Debug\指定數值顯示.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\指定數值顯示\obj\Debug\指定數值顯示.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\指定數值顯示\obj\Debug\指定數值顯示.pdb

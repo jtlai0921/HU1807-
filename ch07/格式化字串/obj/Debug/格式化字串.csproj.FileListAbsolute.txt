@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\格式化字串\bin\Debug\格式化字串.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\格式化字串\bin\Debug\格式化字串.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\格式化字串\bin\Debug\格式化字串.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\格式化字串\obj\Debug\格式化字串.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\格式化字串\obj\Debug\格式化字串.pdb

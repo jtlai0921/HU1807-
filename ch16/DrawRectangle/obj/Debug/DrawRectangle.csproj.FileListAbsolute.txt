@@ -1,0 +1,9 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangle\bin\Debug\DrawRectangle.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangle\bin\Debug\DrawRectangle.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangle\bin\Debug\DrawRectangle.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangle\obj\Debug\DrawRectangle.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangle\obj\Debug\DrawRectangle.Form1.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangle\obj\Debug\DrawRectangle.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangle\obj\Debug\DrawRectangle.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangle\obj\Debug\DrawRectangle.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangle\obj\Debug\DrawRectangle.pdb

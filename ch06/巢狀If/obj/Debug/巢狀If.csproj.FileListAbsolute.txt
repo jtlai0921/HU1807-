@@ -1,0 +1,9 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\巢狀If\bin\Debug\巢狀If.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\巢狀If\bin\Debug\巢狀If.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\巢狀If\bin\Debug\巢狀If.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\巢狀If\obj\Debug\巢狀If.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\巢狀If\obj\Debug\巢狀If.Form1.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\巢狀If\obj\Debug\巢狀If.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\巢狀If\obj\Debug\巢狀If.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\巢狀If\obj\Debug\巢狀If.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\巢狀If\obj\Debug\巢狀If.pdb

@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\布林變數宣告與使用\bin\Debug\布林變數宣告與使用.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\布林變數宣告與使用\bin\Debug\布林變數宣告與使用.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\布林變數宣告與使用\bin\Debug\布林變數宣告與使用.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\布林變數宣告與使用\obj\Debug\布林變數宣告與使用.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\布林變數宣告與使用\obj\Debug\布林變數宣告與使用.pdb

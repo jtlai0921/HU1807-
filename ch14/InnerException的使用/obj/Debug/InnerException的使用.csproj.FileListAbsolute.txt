@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch14\InnerException的使用\bin\Debug\InnerException的使用.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch14\InnerException的使用\bin\Debug\InnerException的使用.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch14\InnerException的使用\bin\Debug\InnerException的使用.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch14\InnerException的使用\obj\Debug\InnerException的使用.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch14\InnerException的使用\obj\Debug\InnerException的使用.pdb

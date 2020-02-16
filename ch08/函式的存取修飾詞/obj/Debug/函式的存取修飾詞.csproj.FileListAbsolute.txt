@@ -1,0 +1,6 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\函式的存取修飾詞\bin\Debug\函式的存取修飾詞.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\函式的存取修飾詞\obj\Debug\函式的存取修飾詞.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\函式的存取修飾詞\bin\Debug\函式的存取修飾詞.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\函式的存取修飾詞\bin\Debug\函式的存取修飾詞.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\函式的存取修飾詞\obj\Debug\函式的存取修飾詞.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\函式的存取修飾詞\obj\Debug\函式的存取修飾詞.pdb

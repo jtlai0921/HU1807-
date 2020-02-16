@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\左側結合的比較\bin\Debug\左側結合的比較.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\左側結合的比較\bin\Debug\左側結合的比較.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\左側結合的比較\bin\Debug\左側結合的比較.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\左側結合的比較\obj\Debug\左側結合的比較.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\左側結合的比較\obj\Debug\左側結合的比較.pdb

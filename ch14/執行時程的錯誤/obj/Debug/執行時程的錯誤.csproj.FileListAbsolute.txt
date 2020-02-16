@@ -1,0 +1,6 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch14\執行時程的錯誤\bin\Debug\執行時程的錯誤.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch14\執行時程的錯誤\bin\Debug\執行時程的錯誤.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch14\執行時程的錯誤\bin\Debug\執行時程的錯誤.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch14\執行時程的錯誤\obj\Debug\執行時程的錯誤.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch14\執行時程的錯誤\obj\Debug\執行時程的錯誤.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch14\執行時程的錯誤\obj\Debug\執行時程的錯誤.pdb

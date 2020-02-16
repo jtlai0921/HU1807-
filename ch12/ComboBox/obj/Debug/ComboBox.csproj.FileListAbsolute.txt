@@ -1,0 +1,8 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\ComboBox\bin\Debug\ComboBox.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\ComboBox\bin\Debug\ComboBox.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\ComboBox\bin\Debug\ComboBox.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\ComboBox\obj\Debug\ComboBox.Form1.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\ComboBox\obj\Debug\ComboBox.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\ComboBox\obj\Debug\ComboBox.pdb

@@ -1,0 +1,6 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\使用float\bin\Debug\使用float.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\使用float\bin\Debug\使用float.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\使用float\bin\Debug\使用float.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\使用float\obj\Debug\使用float.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\使用float\obj\Debug\使用float.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\使用float\obj\Debug\使用float.pdb

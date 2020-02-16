@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\使用鋸齒陣列\bin\Debug\使用鋸齒陣列.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\使用鋸齒陣列\bin\Debug\使用鋸齒陣列.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\使用鋸齒陣列\bin\Debug\使用鋸齒陣列.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\使用鋸齒陣列\obj\Debug\使用鋸齒陣列.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\使用鋸齒陣列\obj\Debug\使用鋸齒陣列.pdb

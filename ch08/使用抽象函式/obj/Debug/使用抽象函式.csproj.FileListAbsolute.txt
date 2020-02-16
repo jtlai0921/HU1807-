@@ -1,0 +1,6 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\使用抽象函式\bin\Debug\使用抽象函式.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\使用抽象函式\bin\Debug\使用抽象函式.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\使用抽象函式\bin\Debug\使用抽象函式.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\使用抽象函式\obj\Debug\使用抽象函式.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\使用抽象函式\obj\Debug\使用抽象函式.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch08\使用抽象函式\obj\Debug\使用抽象函式.pdb

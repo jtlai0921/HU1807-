@@ -1,0 +1,9 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\顯示座標\bin\Debug\顯示座標.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\顯示座標\bin\Debug\顯示座標.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\顯示座標\bin\Debug\顯示座標.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\顯示座標\obj\Debug\顯示座標.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\顯示座標\obj\Debug\顯示座標.顯示座標.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\顯示座標\obj\Debug\顯示座標.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\顯示座標\obj\Debug\顯示座標.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\顯示座標\obj\Debug\顯示座標.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\顯示座標\obj\Debug\顯示座標.pdb

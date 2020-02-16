@@ -1,0 +1,6 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\使用FileStream\bin\Debug\使用FileStream.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\使用FileStream\bin\Debug\使用FileStream.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\使用FileStream\bin\Debug\使用FileStream.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\使用FileStream\obj\Debug\使用FileStream.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\使用FileStream\obj\Debug\使用FileStream.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\使用FileStream\obj\Debug\使用FileStream.pdb

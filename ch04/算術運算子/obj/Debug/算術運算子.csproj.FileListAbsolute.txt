@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\算術運算子\bin\Debug\算術運算子.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\算術運算子\bin\Debug\算術運算子.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\算術運算子\bin\Debug\算術運算子.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\算術運算子\obj\Debug\算術運算子.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\算術運算子\obj\Debug\算術運算子.pdb

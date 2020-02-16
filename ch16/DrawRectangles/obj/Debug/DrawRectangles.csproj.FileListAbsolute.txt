@@ -1,0 +1,8 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangles\bin\Debug\DrawRectangles.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangles\bin\Debug\DrawRectangles.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangles\bin\Debug\DrawRectangles.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangles\obj\Debug\DrawRectangles.Form1.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangles\obj\Debug\DrawRectangles.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangles\obj\Debug\DrawRectangles.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangles\obj\Debug\DrawRectangles.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawRectangles\obj\Debug\DrawRectangles.pdb

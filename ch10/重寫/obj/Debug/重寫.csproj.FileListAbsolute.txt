@@ -1,0 +1,6 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\重寫\bin\Debug\重寫.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\重寫\bin\Debug\重寫.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\重寫\bin\Debug\重寫.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\重寫\obj\Debug\重寫.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\重寫\obj\Debug\重寫.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch10\重寫\obj\Debug\重寫.pdb

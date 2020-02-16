@@ -1,0 +1,9 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\UsingDrawImage\bin\Debug\UsingDrawImage.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\UsingDrawImage\bin\Debug\UsingDrawImage.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\UsingDrawImage\bin\Debug\UsingDrawImage.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\UsingDrawImage\obj\Debug\UsingDrawImage.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\UsingDrawImage\obj\Debug\UsingDrawImage.Form1.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\UsingDrawImage\obj\Debug\UsingDrawImage.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\UsingDrawImage\obj\Debug\UsingDrawImage.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\UsingDrawImage\obj\Debug\UsingDrawImage.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\UsingDrawImage\obj\Debug\UsingDrawImage.pdb

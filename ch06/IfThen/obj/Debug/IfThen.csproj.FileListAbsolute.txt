@@ -1,0 +1,9 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\IfThen\bin\Debug\IfThen.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\IfThen\bin\Debug\IfThen.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\IfThen\bin\Debug\IfThen.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\IfThen\obj\Debug\IfThen.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\IfThen\obj\Debug\IfThen.ifThen.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\IfThen\obj\Debug\IfThen.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\IfThen\obj\Debug\IfThen.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\IfThen\obj\Debug\IfThen.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch06\IfThen\obj\Debug\IfThen.pdb

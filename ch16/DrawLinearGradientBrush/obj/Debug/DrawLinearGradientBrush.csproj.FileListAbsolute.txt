@@ -1,0 +1,9 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLinearGradientBrush\bin\Debug\DrawLinearGradientBrush.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLinearGradientBrush\bin\Debug\DrawLinearGradientBrush.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLinearGradientBrush\bin\Debug\DrawLinearGradientBrush.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLinearGradientBrush\obj\Debug\DrawLinearGradientBrush.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLinearGradientBrush\obj\Debug\DrawLinearGradientBrush.Form1.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLinearGradientBrush\obj\Debug\DrawLinearGradientBrush.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLinearGradientBrush\obj\Debug\DrawLinearGradientBrush.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLinearGradientBrush\obj\Debug\DrawLinearGradientBrush.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLinearGradientBrush\obj\Debug\DrawLinearGradientBrush.pdb

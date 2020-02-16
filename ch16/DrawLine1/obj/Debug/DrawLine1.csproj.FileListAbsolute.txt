@@ -1,0 +1,9 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLine1\bin\Debug\DrawLine1.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLine1\obj\Debug\DrawLine1.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLine1\obj\Debug\DrawLine1.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLine1\obj\Debug\DrawLine1.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLine1\bin\Debug\DrawLine1.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLine1\bin\Debug\DrawLine1.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLine1\obj\Debug\DrawLine1.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLine1\obj\Debug\DrawLine1.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch16\DrawLine1\obj\Debug\DrawLine1.Form1.resources

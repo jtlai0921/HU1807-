@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\Format方法\bin\Debug\Format方法.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\Format方法\bin\Debug\Format方法.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\Format方法\bin\Debug\Format方法.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\Format方法\obj\Debug\Format方法.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch07\Format方法\obj\Debug\Format方法.pdb

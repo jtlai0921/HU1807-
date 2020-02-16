@@ -1,0 +1,8 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ex06\Exam9\bin\Debug\Exam9.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ex06\Exam9\bin\Debug\Exam9.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ex06\Exam9\bin\Debug\Exam9.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ex06\Exam9\obj\Debug\Exam9.Form1.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ex06\Exam9\obj\Debug\Exam9.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ex06\Exam9\obj\Debug\Exam9.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ex06\Exam9\obj\Debug\Exam9.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ex06\Exam9\obj\Debug\Exam9.pdb

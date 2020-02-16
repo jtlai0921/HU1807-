@@ -1,0 +1,9 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\CheckedListBox控制項\bin\Debug\CheckedListBox控制項.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\CheckedListBox控制項\bin\Debug\CheckedListBox控制項.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\CheckedListBox控制項\bin\Debug\CheckedListBox控制項.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\CheckedListBox控制項\obj\Debug\CheckedListBox控制項.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\CheckedListBox控制項\obj\Debug\CheckedListBox控制項.CheckedListBox.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\CheckedListBox控制項\obj\Debug\CheckedListBox控制項.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\CheckedListBox控制項\obj\Debug\CheckedListBox控制項.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\CheckedListBox控制項\obj\Debug\CheckedListBox控制項.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch12\CheckedListBox控制項\obj\Debug\CheckedListBox控制項.pdb

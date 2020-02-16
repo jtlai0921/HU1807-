@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch14\使用rethrow\bin\Debug\使用rethrow.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch14\使用rethrow\bin\Debug\使用rethrow.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch14\使用rethrow\bin\Debug\使用rethrow.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch14\使用rethrow\obj\Debug\使用rethrow.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch14\使用rethrow\obj\Debug\使用rethrow.pdb

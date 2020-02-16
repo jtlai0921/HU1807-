@@ -1,0 +1,1 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\使用char\bin\Debug\使用char.exe.config

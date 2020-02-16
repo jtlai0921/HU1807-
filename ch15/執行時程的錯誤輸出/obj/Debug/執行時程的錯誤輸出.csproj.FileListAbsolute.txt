@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\執行時程的錯誤輸出\bin\Debug\執行時程的錯誤輸出.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\執行時程的錯誤輸出\bin\Debug\執行時程的錯誤輸出.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\執行時程的錯誤輸出\bin\Debug\執行時程的錯誤輸出.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\執行時程的錯誤輸出\obj\Debug\執行時程的錯誤輸出.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch15\執行時程的錯誤輸出\obj\Debug\執行時程的錯誤輸出.pdb

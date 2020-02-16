@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\列舉型態\bin\Debug\列舉型態.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\列舉型態\bin\Debug\列舉型態.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\列舉型態\bin\Debug\列舉型態.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\列舉型態\obj\Debug\列舉型態.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\列舉型態\obj\Debug\列舉型態.pdb

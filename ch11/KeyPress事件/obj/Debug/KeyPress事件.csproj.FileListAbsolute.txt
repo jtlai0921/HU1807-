@@ -1,0 +1,9 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\KeyPress事件\bin\Debug\KeyPress事件.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\KeyPress事件\bin\Debug\KeyPress事件.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\KeyPress事件\bin\Debug\KeyPress事件.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\KeyPress事件\obj\Debug\KeyPress事件.csprojResolveAssemblyReference.cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\KeyPress事件\obj\Debug\KeyPress事件.Properties.Resources.resources
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\KeyPress事件\obj\Debug\KeyPress事件.csproj.GenerateResource.Cache
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\KeyPress事件\obj\Debug\KeyPress事件.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\KeyPress事件\obj\Debug\KeyPress事件.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch11\KeyPress事件\obj\Debug\KeyPress事件.Form1.resources

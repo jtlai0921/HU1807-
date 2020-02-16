@@ -1,0 +1,5 @@
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\存放小數的差異\bin\Debug\存放小數的差異.exe.config
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\存放小數的差異\bin\Debug\存放小數的差異.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\存放小數的差異\bin\Debug\存放小數的差異.pdb
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\存放小數的差異\obj\Debug\存放小數的差異.exe
+D:\進行中書籍\上奇_Visual C#\範例檔\ch04\存放小數的差異\obj\Debug\存放小數的差異.pdb
